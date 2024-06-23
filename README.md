@@ -1,12 +1,1 @@
-
-- test test test 
-- 👋 Hi, I’m @MandelbrotEnjoyer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-MandelbrotEnjoyer/MandelbrotEnjoyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Not sure what should I write here, anyway! If you want to contact me reach out on LinkedIn, link is in the profile!
