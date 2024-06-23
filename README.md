@@ -7,7 +7,7 @@ LinkedIn: https://www.linkedin.com/in/miloszploszynski/?locale=en_US
 
 Free 3D models i made: www.printables.com/pl/social/295507-3d_printing_enjoyer
 
-Astronomical portfolio: sites.google.com/view/ploszynski-astronomy
+Astronomical portfolio: www.sites.google.com/view/ploszynski-astronomy
 
 
 Not sure what else should I write here, anyway! If you want to contact me reach out on LinkedIn, link is above ;)
